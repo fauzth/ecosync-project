@@ -1,1 +1,1 @@
-# ecosync-project by fadli
+# ecosycn-project by fadli 2026
